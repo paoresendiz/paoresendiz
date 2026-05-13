@@ -1,5 +1,10 @@
-<h1 align="center">Hi 👋, I'm PAOLA RESENDIZ</h1>
-<h3 align="center">A passionate frontend developer from Mexico</h3>
+ <h1 align="center">Hi  🌱 I'm Pao Resendiz</h1>
+
+:computer: 𝑨 𝒘𝒆𝒃 designer, frontend jr 𝒆𝒏𝒕𝒉𝒖𝒔𝒊𝒂𝒔𝒕 
+
+  ☕️ 𝘾𝙤𝙛𝙛𝙚𝙚 𝙡𝙤𝙫𝙚𝙧 
+
+💡 𝑷𝒂𝒔𝒔𝒊𝒐𝒏𝒂𝒕𝒆 𝒂𝒃𝒐𝒖𝒕 𝒃𝒓𝒊𝒏𝒈𝒊𝒏𝒈 𝒊𝒅𝒆𝒂𝒔 𝒕𝒐 𝒍𝒊𝒇𝒆. 𝑬𝒙𝒑𝒍𝒐𝒓𝒆 𝒂𝒍𝒍 𝒐𝒇 𝒎𝒚 𝒑𝒓𝒐𝒋𝒆𝒄𝒕𝒔.
 
 - 🌱 I’m currently learning **react**
 
